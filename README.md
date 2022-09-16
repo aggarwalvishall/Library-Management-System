@@ -1,5 +1,5 @@
 
-# Library Management System 🏫📚
+# 🏫📚 Library Management System 
 
 It's a basic program in Python.
 This project includes issuing books, returning books and display available books.
